@@ -7,7 +7,15 @@ package org.xidian.wechat.wpackage;
  */
 public class WPackage {
 	
-	
+	/**
+	 * 创建分组
+	 */
+	public void createPacket() {
+		
+		
+		
+		
+	}
 	
 	
 	
